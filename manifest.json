@@ -12,7 +12,7 @@
 		{
 			"matches": ["*://*.youtube.com/*"],
 			"css": ["styles/main.css"],
-			"js": ["dist/content.bundle.js"]
+			"js": ["content.bundle.js"]
 		}
 	]
 }
